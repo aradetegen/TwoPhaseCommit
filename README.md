@@ -1,9 +1,4 @@
-TwoPhaseCommit
-==============
-By Arade T. Tegen
-3/28/2014
-Implimenation of 2PC in C
-Distributed Systems 2012 – 2013
+
 
 A Distributed Database System
 
